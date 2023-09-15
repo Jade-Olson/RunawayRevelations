@@ -29,12 +29,12 @@ Extra Features:
 - SSL/TLS encrypted
 
 Backlog:
-1. Project setup (Github, Next.js, Mongo, Node.js)
-2. Landing Page
-3. Login and registration
-4. Home Page
-5. Create Page
-6. Edit Page
-7. View Page
-8. Profile Page
-9. Messaging
+1. Project setup (Github, Next.js, Mongo, Node.js) 
+2. Login and registration
+3. Home Page
+4. Create Page
+5. Edit Page
+6. View Page
+7. Profile Page
+8. Messaging
+9. Landing Page
