@@ -1,0 +1,40 @@
+Technologies:
+Frontend - Next.js
+Styling - Tailwind CSS
+Server - Node.js
+Database - MongoDB
+
+Name:
+- Runaway Revelations
+
+Outline:
+- A blog application with built-in messaging and commentation system
+
+MVP Features:
+- On Github "https://github.com/Jade-Olson/RunawayRevelations"
+- User Authentication and JWT
+- Protected Routes
+- Uses Tailwind CSS
+- Data is validated on create and edit, with errors displayed
+- Github Read.me
+- Posting, Editing, Reading, Deleting Blogs
+- Reading list
+- Commenting on others and commenting on comments
+- Following other users
+- Messaging other users
+
+Extra Features:
+- Responsive
+- Deployed
+- SSL/TLS encrypted
+
+Backlog:
+1. Project setup (Github, Next.js, Mongo, Node.js)
+2. Landing Page
+3. Login and registration
+4. Home Page
+5. Create Page
+6. Edit Page
+7. View Page
+8. Profile Page
+9. Messaging
